@@ -1,3 +1,7 @@
+/* NOTE: This AVL Tree was implemented by another student as per the project's requirement to use a peer's code. 
+   See the repository labeled "AVL Tree" for my own implementation. */
+
+
 // AVL Project.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //Change Factor back, not sure if I messed up the flow of the program
 //Need to add in a check to see how many commands we can allow, read the document! We need an if statement somewhere
